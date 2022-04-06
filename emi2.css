@@ -24,7 +24,7 @@ a.button:hover { background-color: #656565;}
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('img/bg.png');
+    background-image: url('img/bg_1.png');
     background-size: cover;
 }
 
